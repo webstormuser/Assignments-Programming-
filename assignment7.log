@@ -1,0 +1,20 @@
+INFO 2022-08-25 15:05:26,393 root Ouput of Finding sum of Array Elements
+INFO 2022-08-25 15:05:44,042 root Entered numbers are(10, 11, 12, 13, 14, 115)
+INFO 2022-08-25 15:05:44,045 root Sum of (10, 11, 12, 13, 14, 115) is 175
+INFO 2022-08-25 15:14:03,589 root Output of finding largest element in Array
+INFO 2022-08-25 15:14:13,423 root Entered Array is (0, 8, 90, 34, 56, 100, 12)
+INFO 2022-08-25 15:14:13,425 root sorted array in revered order is [100, 90, 56, 34, 12, 8, 0]
+INFO 2022-08-25 15:14:13,427 root Largest element in array is 100
+INFO 2022-08-25 15:23:09,960 root output of rotation of array elements
+INFO 2022-08-25 15:28:07,779 root After rotation array is
+INFO 2022-08-25 15:28:07,782 root [15, 6, 7, 8, 9, 12, 13, 14]
+INFO 2022-08-25 15:45:14,026 root  Before Splitting the original array is [12, 13, 14, 15, 16, 17]
+INFO 2022-08-25 15:45:49,040 root  Before Splitting the original array is [12, 13, 14, 15, 16, 17]
+INFO 2022-08-25 15:45:49,043 root After spliting the array is [15, 16, 17, 12, 13, 14]
+INFO 2022-08-25 15:54:37,207 root Enterred array is [5, 6, 3, 4]
+INFO 2022-08-25 15:54:37,210 root False
+INFO 2022-08-25 15:54:37,212 root True
+INFO 2022-08-25 15:55:26,678 root Enterred array is [5, 6, 3, 4]
+INFO 2022-08-25 15:55:26,680 root  Array is monotonic False
+INFO 2022-08-25 15:55:26,682 root Enterred array is [3, 4, 5, 6]
+INFO 2022-08-25 15:55:26,684 root  Array is monotonic True
